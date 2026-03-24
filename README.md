@@ -4,6 +4,10 @@ A Python-based network diagnostics toolkit that sends ICMP/UDP probes, geolocate
 
 ---
 
+<img width="2029" height="1090" alt="image" src="https://github.com/user-attachments/assets/46c852c0-310a-4fda-854d-59ba70ba8d04" />
+<img width="2198" height="663" alt="Screenshot from 2026-03-25 02-03-19" src="https://github.com/user-attachments/assets/d2079f39-0d89-4f59-b9a5-029bea8731a4" />
+
+
 ## Files
 
 | File | Purpose |
