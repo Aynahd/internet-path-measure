@@ -1,4 +1,4 @@
-# Enhanced Traceroute Analyser
+# Traceroute Analyser
 
 A Python-based network diagnostics toolkit that sends ICMP/UDP probes, geolocates every hop (including private IPs), and produces rich visualisations with ML-based anomaly detection.
 
