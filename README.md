@@ -14,7 +14,6 @@ A Python-based network diagnostics toolkit that sends ICMP/UDP probes, geolocate
 | `geo.py` | Geo-lookup every hop; private IPs resolved via reverse DNS |
 | `map.py` | Interactive Folium map with animated path and rich popups |
 | `ml.py` | K-Means + Isolation Forest + bottleneck scoring report |
-| `rtt_heatmap.py` | Multi-run RTT heatmap (runs N passes automatically) |
 | `dashboard.py` | Single-page matplotlib dashboard combining all panels |
 
 ---
